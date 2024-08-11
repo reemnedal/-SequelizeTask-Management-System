@@ -1,1 +1,0 @@
-# -SequelizeTask-Management-System
